@@ -6,12 +6,12 @@ A collection of tools focused on system analysis, monitoring, and automation.
 
 ## Included Tools
 
-- **System Analyzer** → system inspection & analysis  
-- **Process Monitor** → process tracking & behavior observation  
-- **System Scanner** → environment scanning & data collection  
-- **Log Analyzer** → log parsing & pattern detection  
-- **Network Inspector** → connectivity & network analysis  
-- **File Tracker** → file system monitoring & change detection  
+- **[System Analyzer](https://github.com/zife0/system-analyzer)** → system inspection & analysis  
+- **[Process Monitor](https://github.com/zife0/process-monitor)** → process tracking & behavior observation  
+- **[System Scanner](https://github.com/zife0/system-scanner)** → environment scanning & data collection  
+- **[Log Analyzer](https://github.com/zife0/log-analyzer)** → log parsing & pattern detection  
+- **[Network Inspector](https://github.com/zife0/network-inspector)** → connectivity & network analysis  
+- **[File Tracker](https://github.com/zife0/file-tracker)** → file system monitoring & change detection    
 
 ---
 
